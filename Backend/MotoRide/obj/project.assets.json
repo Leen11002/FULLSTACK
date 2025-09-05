@@ -3549,11 +3549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MOTORIDEBACKEND\\MotoRide\\MotoRide\\MotoRide.csproj",
+      "projectUniqueName": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MotoRide\\MotoRide.csproj",
       "projectName": "MotoRide",
-      "projectPath": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MOTORIDEBACKEND\\MotoRide\\MotoRide\\MotoRide.csproj",
+      "projectPath": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MotoRide\\MotoRide.csproj",
       "packagesPath": "C:\\Users\\leen1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MOTORIDEBACKEND\\MotoRide\\MotoRide\\obj\\",
+      "outputPath": "C:\\Users\\leen1\\Documents\\devops final project\\Backend\\MotoRide\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leen1\\AppData\\Roaming\\NuGet\\NuGet.Config"
