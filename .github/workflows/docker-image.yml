@@ -55,6 +55,6 @@ jobs:
           port: 22
           script: |
            rm -rf ~/fullstack
-           git clone https://github.com/username/your-repo.git ~/fullstack
+           git clone https://github.com/Leen11002/FULLSTACK.git ~/fullstack
            cd ~/fullstack
            docker compose up -d --build --remove-orphans
