@@ -54,6 +54,7 @@ jobs:
           key: ${{ secrets.REMOTE_SSH_KEY }}
           port: 22
           script: |
-            cd /path/to/fullstack
-            docker compose pull
-            docker compose up -d --remove-orphans
+           rm -rf ~/fullstack
+           git clone https://github.com/username/your-repo.git ~/fullstack
+           cd ~/fullstack
+           docker compose up -d --build --remove-orphans
